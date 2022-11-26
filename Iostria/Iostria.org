@@ -1,4 +1,4 @@
-<!-- vscode-markdown-toc -->
+
 * 1. [The Gods](#Gods)
 * 2. [Death And The Great Mist](#Death)
 * 3. [Demigods](#Demigods)
@@ -9,14 +9,9 @@
 * 8. [Magic items](#MagicItems)
 * 9. [Custom Classes](#Custom Classes)
 
-<!-- vscode-markdown-toc-config
-    numbering=true
-    autoSave=true
-    /vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
 Contents:
 
-##  1. <a name="The Gods"></a>Gods
+1. <a name="The Gods"></a>Gods
 
 Izotl, The god of gods
 
