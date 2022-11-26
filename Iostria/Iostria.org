@@ -1,6 +1,5 @@
 #+OPTIONS: toc:9
-[TABLE-OF-CONTENTS]
-
+([TABLE-OF-CONTENTS])
 * 1 The Gods
 
  Izotl, The god of gods, 
