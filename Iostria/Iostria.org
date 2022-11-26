@@ -1,17 +1,9 @@
+#+OPTIONS: toc:nil
 
-* 1. [The Gods](#Gods)
-* 2. [Death And The Great Mist](#Death)
-* 3. [Demigods](#Demigods)
-* 4. [Large Cities And Notable Places](#Cities)
-* 5. [Races](#Races)
-* 6. [Monsters](#Monsters)
-* 7. [Mechanics](#Mechanics)
-* 8. [Magic items](#MagicItems)
-* 9. [Custom Classes](#Custom Classes)
 
 Contents:
 
-1. <a name="The Gods"></a>Gods
+* 1. The gods
 
 Izotl, The god of gods
 
