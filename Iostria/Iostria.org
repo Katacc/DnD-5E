@@ -1,4 +1,4 @@
-#+OPTIONS: toc:nil
+#+OPTIONS: toc:9
 
 
 Contents:
