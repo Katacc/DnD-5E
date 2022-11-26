@@ -1,5 +1,5 @@
 #+OPTIONS: toc:9
-
+[TABLE-OF-CONTENTS]
 
 * 1 The Gods
 
