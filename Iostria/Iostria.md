@@ -215,8 +215,8 @@ Tribesman: https://www.dndbeyond.com/monsters/17122-yuan-ti-malison
 
 <a name="airedale"/>
 <details>
-	<summary>## Airedale</summarty>
-<p>Is the largest city in Iostria and is the capital of the Kingdom of Oceiros its population is roughly:  30 000, 70% human, around 10% dwarf, 5% elf, 5% halfling and 10% mixed of all the other races. 
+	<summary>## Airedale</summary>
+		<p>Is the largest city in Iostria and is the capital of the Kingdom of Oceiros its population is roughly:  30 000, 70% human, around 10% dwarf, 5% elf, 5% halfling and 10% mixed of all the other races. 
 
 Airedale consist of five official districts:
 8The inner castle where the extremely wealthy and the important live with the King and the ones near him. The central garrison is also inside the inner castle
