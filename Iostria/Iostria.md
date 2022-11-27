@@ -1,6 +1,10 @@
 # Contents
 [1. The Gods](#gods)
-
+[2. Death and the great mist](#death)
+[3. Demigods](#demigods)
+[4. large cities and notable places](cities)
+[5. Races](#races)
+[6. Monsters](#monsters)
 [7. Mechanics](#mechanics)
 
 <a name="gods"/>
@@ -14,7 +18,7 @@ He is the Father of all the other gods.
 He ruled Iostria for millennia but has recently died leaving his seat as the supreme god.
 
 
-** 1.1 Children of the light
+## 1.1 Children of the light
 Zodlios The God of Justice 
 Other names: The god of cruelty, The god of strength 
 Worshipped by the king and is the god of the great kingdom based in Airedale. 
@@ -30,7 +34,7 @@ Holy symbol is a celtic kraken
 
 
 
-** 1.2 Children of Nature
+## 1.2 Children of Nature
 
 
 Chisemis The God of the earth (rocks, ground etc)
@@ -50,7 +54,7 @@ Holy symbol is a Trident
 
 
 
-** 1.3 Children of the dark 
+## 1.3 Children of the dark 
 
 Danir The God of Desire
 Other names:  The god of envy, The god of greed
@@ -88,7 +92,7 @@ Holy symbol is a bottle pouring wine into a chalice
 
 
 
-
+<a name="death"/>
 
 
 # 2 DEATH AND THE GREAT MIST
@@ -138,7 +142,7 @@ If a person has lived a life that the gods deem worthy, their soul will be calle
 
 
 
-
+<a name="demigods"/>
 
 # 3 DEMIGODS
 
@@ -172,7 +176,7 @@ Tribesman: https://www.dndbeyond.com/monsters/17122-yuan-ti-malison
 
 
 
-
+<a name="cities"/>
 
 # 4 LARGE CITIES & NOTABLE PLACES
 
@@ -348,8 +352,9 @@ Most of the fishermen in these towns travel to Claton to sell their catch. These
 
 It is legend that the reason for the abnormally large amount of fish in these waters is that the remains of one of the sea monstrosities slain by Edward 'The undead' Thorn are located somewhere in the depths of the bay, and all of the sea life thrives either by eating the remains itself, or by hunting the smaller fish that do. This story is unconfirmed however and so it is unknown if it is the actual reason for the rich sea life in the area.
 
+<a name="races"/>
 
-* 5. Races
+# 5. Races
 
 
 
@@ -525,9 +530,9 @@ Tortle
 
 
 
+<a name="monsters"/>
 
-
-* 6. Monsters
+# 6. Monsters
 
  Werewolf
 
