@@ -197,20 +197,22 @@ Tribesman: https://www.dndbeyond.com/monsters/17122-yuan-ti-malison
 [Back to Top](#contents)
 
 
-[Airedale](#airedale)	
-[The King](#king)	
-[Stratham](#stratham)	
-[Barataria Bay](#barataria)	
-[Claton](#claton)	
-[Klarth](#klarth)	
-[Everwinter](#everwinter)	
-[Zoavoarren](#zoavoarren)	
-[The traveler's path](#travelerspath)	
-[The phantasmal forest](#phantasmal)	
-[The simmering swamp](#swamp)	
-[The lost desert](#desert)	
-[The tribal valley](#tribalvalley)	
-[The fishermans bay](#fishersbay)	
+[Airedale](#airedale)
+
+
+[The King](#king)
+[Stratham](#stratham)
+[Barataria Bay](#barataria)
+[Claton](#claton)
+[Klarth](#klarth)
+[Everwinter](#everwinter)
+[Zoavoarren](#zoavoarren)
+[The traveler's path](#travelerspath)
+[The phantasmal forest](#phantasmal)
+[The simmering swamp](#swamp)
+[The lost desert](#desert)
+[The tribal valley](#tribalvalley)
+[The fishermans bay](#fishersbay)
 
 
 <a name="airedale"/>
