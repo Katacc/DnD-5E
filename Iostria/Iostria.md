@@ -516,7 +516,7 @@ As an action, Unleash a red stream of light that seems like blood. Drain (lvl) x
 - Blood hunter
 
 
-##Tiefling of Iostria
+## Tiefling of Iostria
 A Tiefling of Iostria is a mixture between a human and an Ashen one. They are considered rare in Iostria and most of them live in Everwinter, but small amounts of Tieflings can be found all over the continent.
 
 
@@ -600,8 +600,7 @@ When afflicting drain damage, restore the amount of damage done to enemies, as H
 # 9. Custom Classes
 [Back to Top](#contents)
 
-
-Elemental Fighter (5e Class)
+## Elemental Fighter (5e Class)
 
 Contents
 1	Elemental Fighter
