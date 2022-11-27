@@ -154,34 +154,26 @@ If a person has lived a life that the gods deem worthy, their soul will be calle
 # 3 DEMIGODS
 [Back to Top](#contents)
 
-Edward 'The undead' Thorn
+## Edward 'The undead' Thorn
 
 Edward was a great pirate lord before he drowned with his ship in a massive storm. He died and was sent to Death’s realm where he was able to strike a deal with death to go back to the living realm and defeat sea monstrosities created by Dhemes. Sherborn was able to complete his mission so in return Death gave him his soul back and he was given immense power making him a “demigod” df
 He is worshipped by the pirates of Barataria bay and according to legend he sails the seas even today hunting sea monsters.
 
 
-The Monstrosities
+## The Monstrosities
 
 The monstrosities created by Dhemes are beings of great strength and size, they are unintelligent beings mostly driven by their basic instinct of hunger, they were made by the mad one in some sort of  experiment for unknown reasons.
 
 It is not known exactly how many of these creatures still exist in Iostria, but every now and then there are stories told in inns across the continent about great beasts wandering the wilderness wreaking havoc on unsuspecting settlements.
 Some consider these monstrosities "demigods” because of their raw strength they are worshipped by some orc tribes and barbarians. Killing one of these monstrosities is nearly impossible and is considered a test to becoming a true legend in Iostria.
 
-Yuan-ti
+## Yuan-ti
 Yuan-ti is a gigantic serpent that's said to live somewhere deep within the phantasmal forest.  It used to wander around devouring entire villages until it took residence in a cave that has now became its lair, some tribes within the phantasmal forest started worshipping the serpent as a god of primal nature unknowing of its true origins.
 
 These tribes bring sacrifices to the serpent's lair to keep his hunger in check, so that it doesn’t start rampaging once more. These tribes have been worshipping the serpent for many millenium and they have been affected by its powers. Modern tribesmen have been physically deformed by Yuan-ti’s power. They are  somewhere in between human and serpent, they have also lost most of their humanity, mostly acting on their animalistic instincts. They still live in tribes where most of them hunt food and bring it to Yuan-ti’s lair.
 
  It is very rare to see one of these tribes' people but they have sometimes been seen on the edges of the phantasmal forest. They are very aggressive towards other creatures and will try to kill and bring back anything living they find.
 Tribesman: https://www.dndbeyond.com/monsters/17122-yuan-ti-malison
-
-
-
-
-
-
-
-
 
 
 <a name="cities"/>
