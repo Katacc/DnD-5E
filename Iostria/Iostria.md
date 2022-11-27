@@ -1,9 +1,11 @@
 # Contents
 [1. The Gods](#gods)
+
 [7. Mechanics](#mechanics)
 
 <a name="gods"/>
-## 1. The Gods
+
+# 1. The Gods
 
 
  Izotl, The god of gods, 
@@ -89,7 +91,7 @@ Holy symbol is a bottle pouring wine into a chalice
 
 
 
-* 2 DEATH AND THE GREAT MIST
+# 2 DEATH AND THE GREAT MIST
 
 
 
@@ -138,7 +140,7 @@ If a person has lived a life that the gods deem worthy, their soul will be calle
 
 
 
-* 3 DEMIGODS
+# 3 DEMIGODS
 
 Edward 'The undead' Thorn
 
@@ -172,7 +174,7 @@ Tribesman: https://www.dndbeyond.com/monsters/17122-yuan-ti-malison
 
 
 
-* 4 LARGE CITIES & NOTABLE PLACES
+# 4 LARGE CITIES & NOTABLE PLACES
 
 
 Airedale
@@ -559,6 +561,7 @@ Orc
 
 
 <a name="mechanics"/>
+
 # 7. Mechanics
 
 Body decaying
