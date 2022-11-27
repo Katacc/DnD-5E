@@ -7,7 +7,7 @@
 
 [3. Demigods](#demigods)
 
-[4. large cities and notable places](cities)
+[4. large cities and notable places](#cities)
 
 [5. Races](#races)
 
