@@ -21,16 +21,16 @@
 
 - [Contents](#contents)
 - [1. The Gods](#1-the-gods)
-		- [1.0.1 Izotl, The god of gods,](#101-izotl-the-god-of-gods)
-	- [1.1 Children of the light](#11-children-of-the-light)
+		- [1.1 Izotl, The god of gods,](#11-izotl-the-god-of-gods)
+	- [1.2 Children of the light](#12-children-of-the-light)
 		- [Zodlios The God of Justice](#zodlios-the-god-of-justice)
 		- [Hecataeus  The God of wisdom](#hecataeus--the-god-of-wisdom)
 		- [Dhemes The God of madness](#dhemes-the-god-of-madness)
-	- [1.2 Children of Nature](#12-children-of-nature)
+	- [1.3 Children of Nature](#13-children-of-nature)
 		- [Chisemis The God of the earth (rocks, ground etc)](#chisemis-the-god-of-the-earth-rocks-ground-etc)
 		- [Cephine The Goddess of the Wilderness (forests, swamps etc)](#cephine-the-goddess-of-the-wilderness-forests-swamps-etc)
 		- [Lognar The God of water and the seas](#lognar-the-god-of-water-and-the-seas)
-	- [1.3 Children of the dark](#13-children-of-the-dark)
+	- [1.4 Children of the dark](#14-children-of-the-dark)
 		- [Danir The God of Desire](#danir-the-god-of-desire)
 		- [Adrena The Goddess of Kindness](#adrena-the-goddess-of-kindness)
 		- [Medona The Goddess of Joy](#medona-the-goddess-of-joy)
@@ -93,12 +93,12 @@
 [Back to Top](#contents) 
 
 
-### 1.0.1 Izotl, The god of gods, 
+### 1.1 Izotl, The god of gods, 
 other names: The one above all, The creator  
 He is the Father of all the other gods.  
 He ruled Iostria for millennia but has recently died leaving his seat as the supreme god.
 
-## 1.1 Children of the light
+## 1.2 Children of the light
 
 ### Zodlios The God of Justice 
 Other names: The god of cruelty, The god of strength  
@@ -117,7 +117,7 @@ Holy symbol is a celtic kraken
 
 
 
-## 1.2 Children of Nature
+## 1.3 Children of Nature
 
 
 ### Chisemis The God of the earth (rocks, ground etc)
@@ -136,7 +136,7 @@ worshipped by sailors and fishermen.
 Holy symbol is a Trident
 
 
-## 1.3 Children of the dark 
+## 1.4 Children of the dark 
 
 ### Danir The God of Desire
 Other names:  The god of envy, The god of greed  
