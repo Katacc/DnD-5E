@@ -433,11 +433,11 @@ Shadowy, Mixture of your previous appearance and demonic appearance
 Doesn’t age
 Horns
 
-*Ageless.* You don’t age, and effects that would cause you to age don’t work on you.
+_**Ageless.**_ You don’t age, and effects that would cause you to age don’t work on you.
 
-*Cling to Life.* When you make a death saving throw and roll 16 or higher, you regain 1 hit point.
+_**Cling to Life.**_ When you make a death saving throw and roll 16 or higher, you regain 1 hit point.
 
-*Revenance.* You retain your creature type, yet you register as undead to spells and other effects that detect the presence of the undead creature type.
+_**Revenance.**_ You retain your creature type, yet you register as undead to spells and other effects that detect the presence of the undead creature type.
 
 _**Unsettling Presence.**_ As an action, you can unsettle a creature you can see within 15 feet of you. The target rolls Wisdom saving throw, If they fail, you have advantage on the next roll against Unsettled creature in the next minute. Constructs, undead, and creatures that can’t be frightened are immune to this feature. Once you use this feature, you can’t use it again until you finish a long rest.
 
@@ -467,44 +467,44 @@ Overrides your current race. Your stats and knowledge does not change. Ashen One
 ### Age
 Your age at the moment you died + (Roll a d20 at the end of every month you were a hollow one, If under 14 add one “dead” counter) 2 x months spent “dead”
 
-Cling to Life. When you make a death saving throw and roll 16 or higher, you regain 1 hit point.
+_**Cling to Life.**_ When you make a death saving throw and roll 16 or higher, you regain 1 hit point.
 
-Wish to Death. When becoming Ashen One, Death grants you one (1) special ability depending on your class and slightly upgrades your Unsettling Presence. 
+_**Wish to Death.**_ When becoming Ashen One, Death grants you one (1) special ability depending on your class and slightly upgrades your Unsettling Presence. 
 
-Unsettling Presence. As an action, you can unsettle a creature you can see within 15 feet of you. The target rolls Wisdom saving throw, If they fail, you have advantage on all the rolls against the Unsettled creature for one round. Constructs, undead, and creatures that can’t be frightened are immune to this feature. Once you use this feature, you can’t use it again until you finish a long rest.
+_**_Unsettling Presence.**_ As an action, you can unsettle a creature you can see within 15 feet of you. The target rolls Wisdom saving throw, If they fail, you have advantage on all the rolls against the Unsettled creature for one round. Constructs, undead, and creatures that can’t be frightened are immune to this feature. Once you use this feature, you can’t use it again until you finish a long rest.
 
 ### List of abilities available for Ashen ones depending on character class:
 
 - Barbarian
-Demonic Fury. As a bonus action, you unleash the demonic properties within you and gain +2 attack modifier, +5ft movement speed and your opponent’s gain disadvantage on the attack rolls against you. This effect lasts 2 rounds. Once you use this feature, you can’t use it again until you finish a long rest.
+_**Demonic Fury.**_ As a bonus action, you unleash the demonic properties within you and gain +2 attack modifier, +5ft movement speed and your opponent’s gain disadvantage on the attack rolls against you. This effect lasts 2 rounds. Once you use this feature, you can’t use it again until you finish a long rest.
 
 - Bard
-Tales of Ash. You have seen what comes after death and you know the horror one is faced when they die. As a bonus action you whisper tales of the afterlife and the despair that it holds to a creature that can hear you and they have to make a wisdom save against your charisma, should they fail they will have disadvantage on their next roll of any kind. Tales of Ash uses one bardic inspiration slot.
+_**Tales of Ash.**_ You have seen what comes after death and you know the horror one is faced when they die. As a bonus action you whisper tales of the afterlife and the despair that it holds to a creature that can hear you and they have to make a wisdom save against your charisma, should they fail they will have disadvantage on their next roll of any kind. Tales of Ash uses one bardic inspiration slot.
 
 - Cleric
 If you are a cleric of Death.  
-If you are a cleric of the Gods. Infernal Conflict. Passive ability. As a cleric you have devoted your life to the gods and you have felt their warm embrace, still as an Ashen one you have died and felt the cold hand of death. Because of this you can naturally sense other creature’s alignment.
+If you are a cleric of the Gods. _**Infernal Conflict.**_ Passive ability. As a cleric you have devoted your life to the gods and you have felt their warm embrace, still as an Ashen one you have died and felt the cold hand of death. Because of this you can naturally sense other creature’s alignment.
 
 - Druid
-From Ash You Were Born… As an action you commune with nature and target a creature that is downed or has been dead for less than 10 minutes and turn their body into ash. Heal a party member for (x)d4+10, where x is your level. This ability can be used twice per long rest
+_**From Ash You Were Born…**_ As an action you commune with nature and target a creature that is downed or has been dead for less than 10 minutes and turn their body into ash. Heal a party member for (x)d4+10, where x is your level. This ability can be used twice per long rest
 
 - Fighter
-Rip & Tear. As a bonus action you draw strength from Death itself and give yourself  haste. Haste is cast as a concentration spell so any time you take damage roll either a strength or a dexterity saving throw DC 14 if you fail you lose haste and can't move or take actions until after your next turn, as a wave of lethargy sweeps over you. This ability can be used once per long rest.
+_**Rip & Tear.**_ As a bonus action you draw strength from Death itself and give yourself  haste. Haste is cast as a concentration spell so any time you take damage roll either a strength or a dexterity saving throw DC 14 if you fail you lose haste and can't move or take actions until after your next turn, as a wave of lethargy sweeps over you. This ability can be used once per long rest.
 
 - Monk
-One with Death. You meditate on your death and all the experiences that have come after, you feel like you are at peace with death, and you feel this isn’t their time. As an action grant protection from death to one of your party members (the next time they would go down they will instead remain at 1hp). This ability will last 2 rounds. One with Death can be used once per week.
+_**One with Death.**_ You meditate on your death and all the experiences that have come after, you feel like you are at peace with death, and you feel this isn’t their time. As an action grant protection from death to one of your party members (the next time they would go down they will instead remain at 1hp). This ability will last 2 rounds. One with Death can be used once per week.
 
 - Paladin
-Death’s chain. As an action, Attach a faint aetherial chain to an enemy you see within 30ft, the linked enemy cannot go 45ft. from you. Link redirects 50% of dmg done to you to the linked enemy. Lasts 2 rounds. 2 stacks, that cannot be active simultaneously. Also there must be at least 1hr between links. Charges recharges when offering lvl/2 x 1d4 hp upon longrest.
+_**Death’s chain.**_ As an action, Attach a faint aetherial chain to an enemy you see within 30ft, the linked enemy cannot go 45ft. from you. Link redirects 50% of dmg done to you to the linked enemy. Lasts 2 rounds. 2 stacks, that cannot be active simultaneously. Also there must be at least 1hr between links. Charges recharges when offering lvl/2 x 1d4 hp upon longrest.
 
 - Ranger
-Death’s scent. As a bonus action, you can attach death’s scent to anything you touch (can be transferred to target on arrows or weapons). When the target is under this, they cannot conceal themselves from you (You can attack without disadvantage even when the target is hiding). If the target escapes from you, you can track it without additional ability rolls even through difficult terrain or weather. Effect lasts 2 days. Can be used once between rests.
+_**Death’s scent.**_ As a bonus action, you can attach death’s scent to anything you touch (can be transferred to target on arrows or weapons). When the target is under this, they cannot conceal themselves from you (You can attack without disadvantage even when the target is hiding). If the target escapes from you, you can track it without additional ability rolls even through difficult terrain or weather. Effect lasts 2 days. Can be used once between rests.
 
 - Rogue
 
 
 - Sorcerer
-You are no match. As a sorcerer you have gained unfathomable strength. You have danced with death and you lived to tell the tale. These weak creatures aren’t worth your time nor effort. As an action choose up to three targets that you can see with less than (Your maxHP/2)  they must make a successful constitution save against your spell dc, should they fail their bodies will be incinerated into ash (Their HP will be reduced to 0). This ability can be used once per long rest
+_**You are no match.**_ As a sorcerer you have gained unfathomable strength. You have danced with death and you lived to tell the tale. These weak creatures aren’t worth your time nor effort. As an action choose up to three targets that you can see with less than (Your maxHP/2)  they must make a successful constitution save against your spell dc, should they fail their bodies will be incinerated into ash (Their HP will be reduced to 0). This ability can be used once per long rest
 
 - Warlock
 
@@ -512,7 +512,8 @@ You are no match. As a sorcerer you have gained unfathomable strength. You have 
 
 - Wizard
 As an action, Unleash a red stream of light that seems like blood. Drain (lvl) x 1d6 hp from target enemy. Any overhealing, you can distribute to one (1) nearby target within 15ft.
-Blood hunter
+
+- Blood hunter
 
 
 ##Tiefling of Iostria
