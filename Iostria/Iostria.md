@@ -1,3 +1,5 @@
+<a name="contents"/>
+
 # Contents
 [1. The Gods](#gods)
 [2. Death and the great mist](#death)
@@ -10,7 +12,7 @@
 
 <a name="gods"/>
 
-# 1. The Gods
+# 1. The Gods 
 
 
  Izotl, The god of gods, 
@@ -96,7 +98,7 @@ Holy symbol is a bottle pouring wine into a chalice
 <a name="death"/>
 
 
-# 2 DEATH AND THE GREAT MIST
+# 2 DEATH AND THE GREAT MIST	[Back to Top](#contents)
 
 
 
