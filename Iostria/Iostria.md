@@ -241,6 +241,7 @@ After Prince Artorias and the men few loyal to him were exiled they have set up 
 
 ## Stratham
 [Back to cities](#cities)
+
 Population:
 9 000
 
@@ -282,6 +283,7 @@ There is no official town guard or police force, since it’s more of a place of
 
 ## Claton
 [Back to cities](#cities)
+
 Is the Kingdom's trade centre and it consists of many towns and villages built around a central city that is a hub for trade. Claton is under the Kingdom's direct command and follows laws set by the Kingdom and pay’s taxes to the Kingdom. Because of this the city guards are a part of the Kingdom's army and there are many garrisons of soldiers in and around Claton.
 
 Claton’s population is around 16 000 of which 45% are Humans, 10% Halflings, 12% Elves, 5% Tabaxis, 3% Firbolgs, 25% other creatures from the woods.
@@ -301,6 +303,7 @@ Everything basic and less basic can be bought from the numerous shops and stalls
 
 ## Klarth
 [Back to cities](#cities)
+
 Is an ancient city built by dwarves millenia ago. It’s located in northern central Iostria just beyond The tribal valley. Klarth was originally built as a dwarven fortress during ancient times and so half of the city has been carved into the mountainside. Klarth is famous across all the continents for their master smithing work, they forge the best equipment in iostria built from one of the most sought after materials: Dragonium. 
 
 Klarth is the home of around 7000 people of which 80% are dwarves and 20% are other races, most of them being merchants and sailors that export goods from the docks to other parts of Iostria.
@@ -315,6 +318,7 @@ Getting into Klarth itself is another problem if you even manage to get there. T
 
 ## Mirfield
 [Back to cities](#cities)
+
 Is the single largest trading post in all of Iostria. Around 11 000 people live within Mirfield and thousands more in the smaller towns around it.
 
  Mirfield is the most diverse city in Iostria with around 22% humans, 15% dwarves, 10% halflings, 8% elves,  5% gnomes, 5% tabaxi, 5% tortles, 3% kenkus, 2% tieflings, and the remaining 25% being a mixture of all the other races in Iostria, Mirfield is one of the only large cities where orcs aren’t treated with open hostility and even some orc adventurers can be found in Mirfield.
@@ -345,12 +349,14 @@ The mountains around Everwinter are the most ore rich ground that has been found
 
 ## Zoavoarren
 [Back to cities](#cities)
+
 City of dragonborn, hidden from everything inside the mountains of the island of the dragons. The mountains hide around 1,300 dragonborn and their ancient civilization runs on the very foundation of our world, magma. The Mountains hide a lot of Dragonium, the rarest metal in the continent.
 
 <a name="travelerspath"/>
 
 ## The traveler’s path
 [Back to cities](#cities)
+
 Is the main road connecting most of Iostria with itself. The name comes from the builders who are believed to have been ancient travelers exploring the continent.
 
 Today the path is the busiest trading route in Iostria with many merchants traveling to and from all the major cities and towns. 
@@ -359,6 +365,7 @@ Today the path is the busiest trading route in Iostria with many merchants trave
 
 ## The phantasmal forest
 [Back to cities](#cities)
+
 Is the largest single forest in Iostria, located just north-east of Claton. It's the home to many small villages and even some towns lay hidden in the trees, most of them are “normal” settlements with travelers and merchants visiting the inns and trading with the locals. But some of the villages deep within the woods have no contact with the outside world. They live off the forest eating the many edible plants and the berries or by hunting some of the many animals in the forest.
 
  Many races hail from the phantasmal forest such as the Tabaxi, the Firbolgs, the wood elves, and the forest gnomes. Its total population is unknown but at least some thousands of creatures live there. 
@@ -374,6 +381,7 @@ Legend says, that there lies hidden portal to another plane of existence, somewh
 
 ## The simmering swamp
 [Back to cities](#cities)
+
 Located in a volcanically active part of  Iostria the simmering swamp lies in between the lost desert and the mountains north of Barataria Bay.
 
  Because of its location the waters of the simmering swamp are heated through geothermal geysers. The unfortunate side-effect is that the whole swamp, besides smelling like a swamp, also reeks of sulfur and volcanic fumes. One can get used to the smell as proved by the inhabitants of the simmering swamp. There are many small floating villages that are built on rafts, and they can float around the swamp area if need be. Most of the creatures living in the swamp are tortles but there are also many other races that live among them.
@@ -382,12 +390,14 @@ Located in a volcanically active part of  Iostria the simmering swamp lies in be
 
 ## The lost desert 
 [Back to cities](#cities)
+
 Is known for its many magical treasures found in the many ruins and ancient tombs scattered around the desert. It’s considered the most magically sensitive place in Iostria and so the mage capital of Stratham was built there. 
 
 <a name=" tribalvalley"/>
 
 ## The tribal valley
 [Back to cities](#cities)
+
 Is a giant valley in central Iostria that stands before the entrance to Klarth. Most of Iostria’s orcs, giants, goblins and barbarian clans live there, thus most people steer clear of it. 
 
 Many armies have tried to conquer the tribal valley, all of them have failed. Many travellers every year go missing there never to be seen again, most of them searching for the same thing, a safe trade route to Klarth. Every merchant in the continent wants to get their hands on an easier trading route to Klarth, so they could sell the equipment forged by the dwarven master smiths. The only known trade route to Klarth today is by sea and even then you have to risk sailing through pirate waters.
@@ -396,6 +406,7 @@ Many armies have tried to conquer the tribal valley, all of them have failed. Ma
 
 ## The fishermans bay
 [Back to cities](#cities)
+
 Is the bay area located south-west of Claton. It is the most sea life rich place in Iostria. Thus there are numerous towns and villages along the shoreline that live off fishing in these waters.
 
 Most of the fishermen in these towns travel to Claton to sell their catch. These towns and villages happily accept travelers and most of them have inns and places to spend the night. Some of the other villages along the coast however refuse to trade with the rest of the continent and live a self-sustained life  by fishing and farming for themselves. They are unwelcoming to all travellers and some even might be openly hostile to outsiders.
