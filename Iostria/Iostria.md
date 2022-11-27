@@ -21,7 +21,7 @@
 
 - [Contents](#contents)
 - [1. The Gods](#1-the-gods)
-		- [1.1 Izotl, The god of gods,](#11-izotl-the-god-of-gods)
+	- [1.1 Izotl The god of gods](#11-izotl-the-god-of-gods)
 	- [1.2 Children of the light](#12-children-of-the-light)
 		- [Zodlios The God of Justice](#zodlios-the-god-of-justice)
 		- [Hecataeus  The God of wisdom](#hecataeus--the-god-of-wisdom)
@@ -93,7 +93,7 @@
 [Back to Top](#contents) 
 
 
-### 1.1 Izotl, The god of gods, 
+## 1.1 Izotl The god of gods
 other names: The one above all, The creator  
 He is the Father of all the other gods.  
 He ruled Iostria for millennia but has recently died leaving his seat as the supreme god.
