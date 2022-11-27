@@ -419,11 +419,11 @@ It is legend that the reason for the abnormally large amount of fish in these wa
 
 
 
-Human
+## Human
 Humans are the most common race in Iostria being about (prosenttimäärä) of the total population. They can be found in most parts of the continent with a few exceptions.
 
 
-Hollow one
+## Hollow one
 Dead characters may become Hollow ones by attracting Death’s attention and striking themselves a bargain to be freed. If they succeed in time, they might be able to return to their old body. If they take too long or their body is destroyed in the living realm they will return as an Ashen one.
 Hollow ones have a shadowy demonic appearance.
 
@@ -442,7 +442,7 @@ Revenance. You retain your creature type, yet you register as undead to spells a
 Unsettling Presence. As an action, you can unsettle a creature you can see within 15 feet of you. The target rolls Wisdom saving throw, If they fail, you have advantage on the next roll against Unsettled creature in the next minute. Constructs, undead, and creatures that can’t be frightened are immune to this feature. Once you use this feature, you can’t use it again until you finish a long rest.
 
 
-Ashen one 
+## Ashen one 
 An Ashen one is a soul freed from Death's realm that had no body to go to so it manifested itself as a demonic figure, largely recembelling the appearance of a hollow one but more complete and not shadowy.
 
 Traits
@@ -482,7 +482,7 @@ Unsettling Presence. As an action, you can unsettle a creature you can see withi
 
 List of abilities available for Ashen ones depending on character class:
 
-Barbarian
+- Barbarian
 Demonic Fury. As a bonus action, you unleash the demonic properties within you and gain +2 attack modifier, +5ft movement speed and your opponent’s gain disadvantage on the attack rolls against you. This effect lasts 2 rounds. Once you use this feature, you can’t use it again until you finish a long rest.
 Bard
 Tales of Ash. You have seen what comes after death and you know the horror one is faced when they die. As a bonus action you whisper tales of the afterlife and the despair that it holds to a creature that can hear you and they have to make a wisdom save against your charisma, should they fail they will have disadvantage on their next roll of any kind. Tales of Ash uses one bardic inspiration slot.
@@ -498,20 +498,26 @@ Rip & Tear. As a bonus action you draw strength from Death itself and give yours
 
 
 
-Monk
+- Monk
 One with Death. You meditate on your death and all the experiences that have come after, you feel like you are at peace with death, and you feel this isn’t their time. As an action grant protection from death to one of your party members (the next time they would go down they will instead remain at 1hp). This ability will last 2 rounds. One with Death can be used once per week.
+
 Paladin
 Death’s chain. As an action, Attach a faint aetherial chain to an enemy you see within 30ft, the linked enemy cannot go 45ft. from you. Link redirects 50% of dmg done to you to the linked enemy. Lasts 2 rounds. 2 stacks, that cannot be active simultaneously. Also there must be at least 1hr between links. Charges recharges when offering lvl/2 x 1d4 hp upon longrest.
+
 Ranger
 Death’s scent. As a bonus action, you can attach death’s scent to anything you touch (can be transferred to target on arrows or weapons). When the target is under this, they cannot conceal themselves from you (You can attack without disadvantage even when the target is hiding). If the target escapes from you, you can track it without additional ability rolls even through difficult terrain or weather. Effect lasts 2 days. Can be used once between rests.
+
 Rogue
 
 
-Sorcerer
+- Sorcerer
 You are no match. As a sorcerer you have gained unfathomable strength. You have danced with death and you lived to tell the tale. These weak creatures aren’t worth your time nor effort. As an action choose up to three targets that you can see with less than (Your maxHP/2)  they must make a successful constitution save against your spell dc, should they fail their bodies will be incinerated into ash (Their HP will be reduced to 0). This ability can be used once per long rest
-Warlock
-Neekeri
-Wizard
+
+- Warlock
+
+- Neekeri
+
+- Wizard
 As an action, Unleash a red stream of light that seems like blood. Drain (lvl) x 1d6 hp from target enemy. Any overhealing, you can distribute to one (1) nearby target within 15ft.
 Blood hunter
 
@@ -519,7 +525,7 @@ Blood hunter
 
 
 
-Tiefling of Iostria
+##Tiefling of Iostria
 A Tiefling of Iostria is a mixture between a human and an Ashen one. They are considered rare in Iostria and most of them live in Everwinter, but small amounts of Tieflings can be found all over the continent.
 
 
@@ -527,66 +533,44 @@ In modern Tieflings there is only a small percentage of ashen one left because o
 
 Shares the stats and traits with Tiefling.
 
-Dragonborn
+## Dragonborn
 Big, standing, Dragon-like creatures, Born from original dragons, Resides on an isolated island called Zoavoarren. They live deep inside the volcanoes, harnessing the power of lava. 
 
 
-Bugbear
+## Bugbear
 
 
-Dwarf
+## Dwarf
 
 
-Elf
+## Elf
 
 
-Firbolg
+## Firbolg
 
 
-Gnome
+## Gnome
 
 
-Goblin
+## Goblin
 
 
-Half-elf
+## Half-elf
 
 
-Half-orc
+## Half-orc
 
 
-Halfling
+## Halfling
 
 
-Kenku
+## Kenku
 
 
-Tabaxi
+## Tabaxi
 
 
-Tortle
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Tortle
 
 
 
@@ -596,35 +580,11 @@ Tortle
 # 6. Monsters
 [Back to Top](#contents)
 
- Werewolf
+## Werewolf
 
- Wolf
+## Wolf
 
-Orc
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Orc
 
 
 <a name="mechanics"/>
@@ -632,10 +592,10 @@ Orc
 # 7. Mechanics
 [Back to Top](#contents)
 
-Body decaying
+## Body decaying
 Dead body will decay 1d12 (1d6 if the body is stored in cold) % (where the result of the dice is the %) each day. You can restore a body if it remains 10% intact. 
 
-Drain
+## Drain
 When afflicting drain damage, restore the amount of damage done to enemies, as HP for yourself.
 
 
