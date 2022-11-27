@@ -98,7 +98,8 @@ Holy symbol is a bottle pouring wine into a chalice
 <a name="death"/>
 
 
-# 2 DEATH AND THE GREAT MIST	[Back to Top](#contents)
+# 2 DEATH AND THE GREAT MIST	
+[Back to Top](#contents)
 
 
 
