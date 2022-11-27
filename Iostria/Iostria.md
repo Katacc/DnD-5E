@@ -198,9 +198,9 @@ Tribesman: https://www.dndbeyond.com/monsters/17122-yuan-ti-malison
 
 
 <a name="airedale"/>
-[Back to cities](#cities")
 
 ## Airedale
+[Back to cities](#cities)
 Is the largest city in Iostria and is the capital of the Kingdom of Oceiros its population is roughly:  30 000, 70% human, around 10% dwarf, 5% elf, 5% halfling and 10% mixed of all the other races. 
 
 Airedale consist of five official districts:
@@ -224,9 +224,9 @@ Airedales and the whole kingdom's official religion is to the light pantheon of 
 
 
 <a name="king"/>
-[Back to cities](#cities")
 
 ## The King
+[Back to cities](#cities)
 
 The kingdom was ruled by the old King Artorias V, who was a wise and mostly peaceful ruler. The royal family consisted of King Artorias, Queen Priscilla and their son Prince Artorias VI. When the prince was only four years old the Queen became severely ill and after six months of struggle died of her illness. After a while the King got remarried to Queen Sylvia, and had a second son Prince Oceiros. Things were mostly good and the two Princes grew up together. Prince Artorias grew up a fierce warrior who had the respect of the people and of his father the king. Prince Oceiros grew up living in the shadow of his older half-brother and slowly got tired of his brother always getting all the attention and he started to despise him. People called Artorias the future king and this only helped fuel Oceiros’s  secret hatred for him. The Queen also secretly hated Prince Artorias as he was first in line for the throne but she wanted her son to take the throne instead. 
 
@@ -238,9 +238,9 @@ Currently King Oceiros has ruled the kingdom for around a year with his mother S
 After Prince Artorias and the men few loyal to him were exiled they have set up a camp near Mirfield and are gathering loyal soldiers to try and overthrow his half-brother. And reclaim his seat as the rightful ruler of the Kingdom. Currently Artorias’s camp is around 500 warriors strong. 
 
 <a name="stratham"/>
-[Back to cities](#cities")
 
 ## Stratham
+[Back to cities](#cities)
 Population:
 9 000
 
@@ -279,9 +279,9 @@ There is no official town guard or police force, since it’s more of a place of
  Most of Barataria Bay’s economy is based on piracy and the trade of stolen goods but also the exports of strong liquor made by breweries located in the Barataria Bay area, which are famous across Iostria. Although exports of hard liquor to the Kingdom can be a bit tricky because the Kingdom has banned all trade with the pirate towns. Some merchants get around this by setting up shop in Mirfield or other towns outside the Kingdom and acting as a third party to get the liquors into the cities and towns of the Kingdom.
 
 <a name="claton"/>
-[Back to cities](#cities")
 
 ## Claton
+[Back to cities](#cities)
 Is the Kingdom's trade centre and it consists of many towns and villages built around a central city that is a hub for trade. Claton is under the Kingdom's direct command and follows laws set by the Kingdom and pay’s taxes to the Kingdom. Because of this the city guards are a part of the Kingdom's army and there are many garrisons of soldiers in and around Claton.
 
 Claton’s population is around 16 000 of which 45% are Humans, 10% Halflings, 12% Elves, 5% Tabaxis, 3% Firbolgs, 25% other creatures from the woods.
@@ -298,9 +298,9 @@ Everything basic and less basic can be bought from the numerous shops and stalls
 
 
 <a name="klarth"/>
-[Back to cities](#cities")
 
 ## Klarth
+[Back to cities](#cities)
 Is an ancient city built by dwarves millenia ago. It’s located in northern central Iostria just beyond The tribal valley. Klarth was originally built as a dwarven fortress during ancient times and so half of the city has been carved into the mountainside. Klarth is famous across all the continents for their master smithing work, they forge the best equipment in iostria built from one of the most sought after materials: Dragonium. 
 
 Klarth is the home of around 7000 people of which 80% are dwarves and 20% are other races, most of them being merchants and sailors that export goods from the docks to other parts of Iostria.
@@ -312,9 +312,9 @@ Nearly all of Klarth’s economy is based on the export of weapons, armor and ot
 Getting into Klarth itself is another problem if you even manage to get there. The city is walled off and the entrances are guarded by the royal dwarf army. To get into the city you must have a good reason or a merchants pass. All  illegal contraband is seized at the city’s gate, and you are also searched when leaving the city. Once you are inside the city walls Klarth is mostly an accepting place for travellers and merchants. There are even many inns and taverns built for human sized creatures. Getting into the inner city located in the mountainside is nearly impossible if you don’t live there or have an invitation from someone that does. Security at the inner gates is even tighter and civilians aren’t allowed to bring weapons inside the inner city.
 
 <a name="mirfield"/>
-[Back to cities](#cities")
 
 ## Mirfield
+[Back to cities](#cities)
 Is the single largest trading post in all of Iostria. Around 11 000 people live within Mirfield and thousands more in the smaller towns around it.
 
  Mirfield is the most diverse city in Iostria with around 22% humans, 15% dwarves, 10% halflings, 8% elves,  5% gnomes, 5% tabaxi, 5% tortles, 3% kenkus, 2% tieflings, and the remaining 25% being a mixture of all the other races in Iostria, Mirfield is one of the only large cities where orcs aren’t treated with open hostility and even some orc adventurers can be found in Mirfield.
@@ -330,9 +330,9 @@ The council rules from the top floor of the largest building in the center of Mi
 
 
 <a name="everwinter"/>
-[Back to cities](#cities")
 
 ## Everwinter
+[Back to cities](#cities)
 
 This scarce and snowy place is the most northern city on the continent. It guards the entrance to the mountains and the wilderness in the north. Everwinter is a mining town with nearly all of its economy being based on the exports of resources. 
 
@@ -342,23 +342,23 @@ The mountains around Everwinter are the most ore rich ground that has been found
  Everwinter has around 12,000 inhabitants, 42% humans, 16% dwarves, 9% half-orcs, 8% thieflings, 5% gnomes, 2% dragonborns, and 18% other races. It has the largest concentration of tieflings and dragonborn on the continent.
 
 <a name="zoavoarren"/>
-[Back to cities](#cities")
 
 ## Zoavoarren
+[Back to cities](#cities)
 City of dragonborn, hidden from everything inside the mountains of the island of the dragons. The mountains hide around 1,300 dragonborn and their ancient civilization runs on the very foundation of our world, magma. The Mountains hide a lot of Dragonium, the rarest metal in the continent.
 
 <a name="travelerspath"/>
-[Back to cities](#cities")
 
 ## The traveler’s path
+[Back to cities](#cities)
 Is the main road connecting most of Iostria with itself. The name comes from the builders who are believed to have been ancient travelers exploring the continent.
 
 Today the path is the busiest trading route in Iostria with many merchants traveling to and from all the major cities and towns. 
 
 <a name="phantasmal"/>
-[Back to cities](#cities")
 
 ## The phantasmal forest
+[Back to cities](#cities)
 Is the largest single forest in Iostria, located just north-east of Claton. It's the home to many small villages and even some towns lay hidden in the trees, most of them are “normal” settlements with travelers and merchants visiting the inns and trading with the locals. But some of the villages deep within the woods have no contact with the outside world. They live off the forest eating the many edible plants and the berries or by hunting some of the many animals in the forest.
 
  Many races hail from the phantasmal forest such as the Tabaxi, the Firbolgs, the wood elves, and the forest gnomes. Its total population is unknown but at least some thousands of creatures live there. 
@@ -371,23 +371,23 @@ The phantasmal forest is said to be a magical place with many forest druids prac
 Legend says, that there lies hidden portal to another plane of existence, somewhere deep within Phantasmal Forest
 
 <a name="swamp"/>
-[Back to cities](#cities")
 
 ## The simmering swamp
+[Back to cities](#cities)
 Located in a volcanically active part of  Iostria the simmering swamp lies in between the lost desert and the mountains north of Barataria Bay.
 
  Because of its location the waters of the simmering swamp are heated through geothermal geysers. The unfortunate side-effect is that the whole swamp, besides smelling like a swamp, also reeks of sulfur and volcanic fumes. One can get used to the smell as proved by the inhabitants of the simmering swamp. There are many small floating villages that are built on rafts, and they can float around the swamp area if need be. Most of the creatures living in the swamp are tortles but there are also many other races that live among them.
 
 <a name="desert"/>
-[Back to cities](#cities")
 
 ## The lost desert 
+[Back to cities](#cities)
 Is known for its many magical treasures found in the many ruins and ancient tombs scattered around the desert. It’s considered the most magically sensitive place in Iostria and so the mage capital of Stratham was built there. 
 
 <a name=" tribalvalley"/>
-[Back to cities](#cities")
 
 ## The tribal valley
+[Back to cities](#cities)
 Is a giant valley in central Iostria that stands before the entrance to Klarth. Most of Iostria’s orcs, giants, goblins and barbarian clans live there, thus most people steer clear of it. 
 
 Many armies have tried to conquer the tribal valley, all of them have failed. Many travellers every year go missing there never to be seen again, most of them searching for the same thing, a safe trade route to Klarth. Every merchant in the continent wants to get their hands on an easier trading route to Klarth, so they could sell the equipment forged by the dwarven master smiths. The only known trade route to Klarth today is by sea and even then you have to risk sailing through pirate waters.
@@ -395,6 +395,7 @@ Many armies have tried to conquer the tribal valley, all of them have failed. Ma
 <a name="fishermans"/>
 
 ## The fishermans bay
+[Back to cities](#cities)
 Is the bay area located south-west of Claton. It is the most sea life rich place in Iostria. Thus there are numerous towns and villages along the shoreline that live off fishing in these waters.
 
 Most of the fishermen in these towns travel to Claton to sell their catch. These towns and villages happily accept travelers and most of them have inns and places to spend the night. Some of the other villages along the coast however refuse to trade with the rest of the continent and live a self-sustained life  by fishing and farming for themselves. They are unwelcoming to all travellers and some even might be openly hostile to outsiders.
