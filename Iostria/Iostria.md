@@ -15,7 +15,9 @@
 
 [7. Mechanics](#mechanics)
 
+[8. Magic items](#magic-items)
 
+[9. Custom classes](#custom-classes)
 
 
 
@@ -641,10 +643,12 @@ Drain
 When afflicting drain damage, restore the amount of damage done to enemies, as HP for yourself.
 
 
+<a name="magic-items"/>
 
 # 8. Magic Items
 [Back to Top](#contents)
 
+<a name="custom-classes"/>
 
 # 9. Custom Classes
 [Back to Top](#contents)
