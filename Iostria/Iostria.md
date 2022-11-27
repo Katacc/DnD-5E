@@ -82,8 +82,8 @@ Other names: The goddess of the unwanted, The goddess of charity, The kind one
 Worshipped by the poor, the unfortunate and pacifists  
 Holy symbol is a crescent moon 
 
-Main codes of conduct;
-Never turn your back on someone in need of help  
+Main codes of conduct;  
+	- Never turn your back on someone in need of help  
 	- Everyone deserves a second chance  
 	- Violence is the last option  
 	- Too much of anything is a way to corruption so do not desire what you don’t need  
