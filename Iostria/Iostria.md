@@ -172,7 +172,7 @@ The Monstrosities
 The monstrosities created by Dhemes are beings of great strength and size, they are unintelligent beings mostly driven by their basic instinct of hunger, they were made by the mad one in some sort of  experiment for unknown reasons.
 
 It is not known exactly how many of these creatures still exist in Iostria, but every now and then there are stories told in inns across the continent about great beasts wandering the wilderness wreaking havoc on unsuspecting settlements.
-Some consider these monstrosities ``demigods” because of their raw strength they are worshipped by some orc tribes and barbarians. Killing one of these monstrosities is nearly impossible and is considered a test to becoming a true legend in Iostria.
+Some consider these monstrosities "demigods” because of their raw strength they are worshipped by some orc tribes and barbarians. Killing one of these monstrosities is nearly impossible and is considered a test to becoming a true legend in Iostria.
 
 Yuan-ti
 Yuan-ti is a gigantic serpent that's said to live somewhere deep within the phantasmal forest.  It used to wander around devouring entire villages until it took residence in a cave that has now became its lair, some tribes within the phantasmal forest started worshipping the serpent as a god of primal nature unknowing of its true origins.
@@ -197,19 +197,33 @@ Tribesman: https://www.dndbeyond.com/monsters/17122-yuan-ti-malison
 [Back to Top](#contents)
 
 [Airedale](#airedale)
+
 [The King](#king)
+
 [Stratham](#stratham)
+
 [Barataria Bay](#barataria)
+
 [Claton](#claton)
+
 [Klarth](#klarth)
+
 [Everwinter](#everwinter)
+
 [Zoavoarren](#zoavoarren)
+
 [The traveler's path](#travelerspath)
+
 [The phantasmal forest](#phantasmal)
+
 [The simmering swamp](#swamp)
+
 [The lost desert](#desert)
+
 [The tribal valley](#tribalvalley)
+
 [The fishermans bay](#fishersbay)
+
 
 <a name="airedale"/>
 
