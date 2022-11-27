@@ -17,9 +17,12 @@
 
 
 
+
+
 <a name="gods"/>
 
-# 1. The Gods 
+# 1. The Gods
+[Back to Top](#contents) 
 
 
  Izotl, The god of gods, 
@@ -156,6 +159,7 @@ If a person has lived a life that the gods deem worthy, their soul will be calle
 <a name="demigods"/>
 
 # 3 DEMIGODS
+[Back to Top](#contents)
 
 Edward 'The undead' Thorn
 
@@ -190,6 +194,7 @@ Tribesman: https://www.dndbeyond.com/monsters/17122-yuan-ti-malison
 <a name="cities"/>
 
 # 4 LARGE CITIES & NOTABLE PLACES
+[Back to Top](#contents)
 
 
 Airedale
@@ -366,6 +371,7 @@ It is legend that the reason for the abnormally large amount of fish in these wa
 <a name="races"/>
 
 # 5. Races
+[Back to Top](#contents)
 
 
 
@@ -544,6 +550,7 @@ Tortle
 <a name="monsters"/>
 
 # 6. Monsters
+[Back to Top](#contents)
 
  Werewolf
 
@@ -579,6 +586,7 @@ Orc
 <a name="mechanics"/>
 
 # 7. Mechanics
+[Back to Top](#contents)
 
 Body decaying
 Dead body will decay 1d12 (1d6 if the body is stored in cold) % (where the result of the dice is the %) each day. You can restore a body if it remains 10% intact. 
@@ -588,9 +596,12 @@ When afflicting drain damage, restore the amount of damage done to enemies, as H
 
 
 
-Magic Items
+# 8. Magic Items
+[Back to Top](#contents)
 
-* 9. Custom Classes
+
+# 9. Custom Classes
+[Back to Top](#contents)
 
 
 Elemental Fighter (5e Class)
