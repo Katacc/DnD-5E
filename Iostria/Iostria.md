@@ -27,7 +27,7 @@
 [Back to Top](#contents) 
 
 
-## Izotl, The god of gods, 
+### Izotl, The god of gods, 
 other names: The one above all, The creator  
 He is the Father of all the other gods.  
 He ruled Iostria for millennia but has recently died leaving his seat as the supreme god.
