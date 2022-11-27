@@ -34,15 +34,18 @@ He ruled Iostria for millennia but has recently died leaving his seat as the sup
 
 
 ## 1.1 Children of the light
-Zodlios The God of Justice 
+
+### Zodlios The God of Justice 
 Other names: The god of cruelty, The god of strength 
 Worshipped by the king and is the god of the great kingdom based in Airedale. 
 Holy symbol is the sun held over on the tip of a sword
-Hecataeus  The God of wisdom
+
+### Hecataeus  The God of wisdom
 Other names: The wise one, The enlightened one,  
 worshipped by most scholars and wizards
 Holy symbol is an owl
-Dhemes The God of madness 
+
+### Dhemes The God of madness 
 Other names: The mad one, The all knowing one, The father of monsters
 Worshipped by those who are obsessed with the acquisition of knowledge to the point of madness and Necromancers
 Holy symbol is a celtic kraken
@@ -52,16 +55,18 @@ Holy symbol is a celtic kraken
 ## 1.2 Children of Nature
 
 
-Chisemis The God of the earth (rocks, ground etc)
+### Chisemis The God of the earth (rocks, ground etc)
 Other names: Father earth 
 worshipped by the dwarves, rock gnomes and the people of klarth
 Holy symbol is a shield that has a mountain  drawn on it
-Cephine The Goddess of the Wilderness (forests, swamps etc)
+
+### Cephine The Goddess of the Wilderness (forests, swamps etc)
 Other names: Mother nature Goddess of harvest
 worshipped by the wood elves, tree gnomes and the people within
 The phantasmal forest
 Holy symbol is a scythe and a stack of hay
-Lognar The God of water and the seas
+
+### Lognar The God of water and the seas
 Other names: Master of the sea
 worshipped by sailors and fishermen.
 Holy symbol is a Trident
@@ -71,11 +76,12 @@ Holy symbol is a Trident
 
 ## 1.3 Children of the dark 
 
-Danir The God of Desire
+### Danir The God of Desire
 Other names:  The god of envy, The god of greed
 Worshipped by the people of Everwinter and Mirfield
 Holy symbol is a dagger with fancy inlays and jewels
-Adrena The Goddess of Kindness
+
+### Adrena The Goddess of Kindness
 Other names: The goddess of the unwanted, The goddess of charity, The kind one
 Worshipped by the poor, the unfortunate and pacifists
 Holy symbol is a crescent moon
@@ -85,7 +91,8 @@ Everyone deserves a second chance
 Violence is the last option
 Too much of anything is a way to corruption so do not desire what you don’t need
 It is the duty of the strong to protect those weaker then themselves
-Medona The Goddess of Joy
+
+### Medona The Goddess of Joy
 Other names: The goddess of alcohol, goddess of art
 Worshipped by most bards, drunks and other performers 
 Holy symbol is a bottle pouring wine into a chalice
