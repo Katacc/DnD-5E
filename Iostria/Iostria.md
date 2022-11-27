@@ -1,11 +1,9 @@
-#+title: Iostria
-#+OPTIONS: toc:2
-* Contentss
+# Contents
 [1. The Gods](#gods)
 
 <a name="gods"/>
 ## 1. The Gods
-* 1 The Gods
+
 
  Izotl, The god of gods, 
 other names: The one above all, The creator
