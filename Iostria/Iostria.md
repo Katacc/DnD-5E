@@ -445,10 +445,7 @@ Unsettling Presence. As an action, you can unsettle a creature you can see withi
 ## Ashen one 
 An Ashen one is a soul freed from Death's realm that had no body to go to so it manifested itself as a demonic figure, largely recembelling the appearance of a hollow one but more complete and not shadowy.
 
-Traits
-
-
-
+### Traits
 
 Black/purple like demonic appearance
 Horns
@@ -467,7 +464,7 @@ d20 is added to let the player decide how much purple will be in black-purple As
 
 Overrides your current race. Your stats and knowledge does not change. Ashen One isn’t necessarily Undead, but will be counted as an undead when casting spells against Ashen one (Inspiration can be sacrificed to negate Undead status against one (1) spell or effect).
 
-Age
+### Age
 Your age at the moment you died + (Roll a d20 at the end of every month you were a hollow one, If under 14 add one “dead” counter) 2 x months spent “dead”
 
 Cling to Life. When you make a death saving throw and roll 16 or higher, you regain 1 hit point.
@@ -476,11 +473,7 @@ Wish to Death. When becoming Ashen One, Death grants you one (1) special ability
 
 Unsettling Presence. As an action, you can unsettle a creature you can see within 15 feet of you. The target rolls Wisdom saving throw, If they fail, you have advantage on all the rolls against the Unsettled creature for one round. Constructs, undead, and creatures that can’t be frightened are immune to this feature. Once you use this feature, you can’t use it again until you finish a long rest.
 
-
-
-
-
-List of abilities available for Ashen ones depending on character class:
+### List of abilities available for Ashen ones depending on character class:
 
 - Barbarian
 Demonic Fury. As a bonus action, you unleash the demonic properties within you and gain +2 attack modifier, +5ft movement speed and your opponent’s gain disadvantage on the attack rolls against you. This effect lasts 2 rounds. Once you use this feature, you can’t use it again until you finish a long rest.
@@ -492,10 +485,10 @@ Tales of Ash. You have seen what comes after death and you know the horror one i
 If you are a cleric of Death.  
 If you are a cleric of the Gods. Infernal Conflict. Passive ability. As a cleric you have devoted your life to the gods and you have felt their warm embrace, still as an Ashen one you have died and felt the cold hand of death. Because of this you can naturally sense other creature’s alignment.
 
--Druid
+- Druid
 From Ash You Were Born… As an action you commune with nature and target a creature that is downed or has been dead for less than 10 minutes and turn their body into ash. Heal a party member for (x)d4+10, where x is your level. This ability can be used twice per long rest
 
--Fighter
+- Fighter
 Rip & Tear. As a bonus action you draw strength from Death itself and give yourself  haste. Haste is cast as a concentration spell so any time you take damage roll either a strength or a dexterity saving throw DC 14 if you fail you lose haste and can't move or take actions until after your next turn, as a wave of lethargy sweeps over you. This ability can be used once per long rest.
 
 - Monk
