@@ -433,13 +433,13 @@ Shadowy, Mixture of your previous appearance and demonic appearance
 Doesn’t age
 Horns
 
-Ageless. You don’t age, and effects that would cause you to age don’t work on you.
+*Ageless.* You don’t age, and effects that would cause you to age don’t work on you.
 
-Cling to Life. When you make a death saving throw and roll 16 or higher, you regain 1 hit point.
+*Cling to Life.* When you make a death saving throw and roll 16 or higher, you regain 1 hit point.
 
-Revenance. You retain your creature type, yet you register as undead to spells and other effects that detect the presence of the undead creature type.
+*Revenance.* You retain your creature type, yet you register as undead to spells and other effects that detect the presence of the undead creature type.
 
-Unsettling Presence. As an action, you can unsettle a creature you can see within 15 feet of you. The target rolls Wisdom saving throw, If they fail, you have advantage on the next roll against Unsettled creature in the next minute. Constructs, undead, and creatures that can’t be frightened are immune to this feature. Once you use this feature, you can’t use it again until you finish a long rest.
+_Unsettling Presence._ As an action, you can unsettle a creature you can see within 15 feet of you. The target rolls Wisdom saving throw, If they fail, you have advantage on the next roll against Unsettled creature in the next minute. Constructs, undead, and creatures that can’t be frightened are immune to this feature. Once you use this feature, you can’t use it again until you finish a long rest.
 
 
 ## Ashen one 
