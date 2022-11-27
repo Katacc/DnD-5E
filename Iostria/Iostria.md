@@ -338,8 +338,10 @@ The council rules from the top floor of the largest building in the center of Mi
 ## Everwinter
 [Back to cities](#cities)
 
-This scarce and snowy place is the most northern city on the continent. It guards the entrance to the mountains and the wilderness in the north. Everwinter is a mining town with nearly all of its economy being based on the exports of resources.  
+This scarce and snowy place is the most northern city on the continent. It guards the entrance to the mountains and the wilderness in the north. Everwinter is a mining town with nearly all of its economy being based on the exports of resources.
+
 The mountains around Everwinter are the most ore rich ground that has been found in Iostria and it contains many rare elements including Dragonium the most sought after metal in Iostria. Other ores can be found in the mountains such as  Iron, copper, Gold, Nickel, Electrum, Silver. Even some gemstones have been found in the mountains.  
+
 Everwinter has around 12,000 inhabitants, 42% humans, 16% dwarves, 9% half-orcs, 8% thieflings, 5% gnomes, 2% dragonborns, and 18% other races. It has the largest concentration of tieflings and dragonborn on the continent.
 
 <a name="zoavoarren"/>
@@ -355,6 +357,7 @@ City of dragonborn, hidden from everything inside the mountains of the island of
 [Back to cities](#cities)
 
 Is the main road connecting most of Iostria with itself. The name comes from the builders who are believed to have been ancient travelers exploring the continent.  
+
 Today the path is the busiest trading route in Iostria with many merchants traveling to and from all the major cities and towns. 
 
 <a name="phantasmal"/>
