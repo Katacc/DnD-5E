@@ -197,9 +197,7 @@ Tribesman: https://www.dndbeyond.com/monsters/17122-yuan-ti-malison
 [Back to Top](#contents)
 
 
-[Airedale](#airedale)
-
-
+[Airedale](#airedale) --
 [The King](#king)
 [Stratham](#stratham)
 [Barataria Bay](#barataria)
