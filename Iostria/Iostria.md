@@ -99,7 +99,7 @@ Holy symbol is a bottle pouring wine into a chalice
 <a name="death"/>
 
 
-# 2 DEATH AND THE GREAT MIST	
+# 2. DEATH AND THE GREAT MIST	
 [Back to Top](#contents)
 
 
@@ -149,7 +149,7 @@ If a person has lived a life that the gods deem worthy, their soul will be calle
 
 <a name="demigods"/>
 
-# 3 DEMIGODS
+# 3. DEMIGODS
 [Back to Top](#contents)
 
 ## Edward 'The undead' Thorn
@@ -176,7 +176,7 @@ Tribesman: https://www.dndbeyond.com/monsters/17122-yuan-ti-malison
 
 <a name="cities"/>
 
-# 4 LARGE CITIES & NOTABLE PLACES
+# 4. LARGE CITIES & NOTABLE PLACES
 [Back to Top](#contents)
 
 
@@ -338,12 +338,9 @@ The council rules from the top floor of the largest building in the center of Mi
 ## Everwinter
 [Back to cities](#cities)
 
-This scarce and snowy place is the most northern city on the continent. It guards the entrance to the mountains and the wilderness in the north. Everwinter is a mining town with nearly all of its economy being based on the exports of resources. 
-
-The mountains around Everwinter are the most ore rich ground that has been found in Iostria and it contains many rare elements including Dragonium the most sought after metal in Iostria. Other ores can be found in the mountains such as  Iron, copper, Gold, Nickel, Electrum, Silver. Even some gemstones have been found in the mountains.
-
-
- Everwinter has around 12,000 inhabitants, 42% humans, 16% dwarves, 9% half-orcs, 8% thieflings, 5% gnomes, 2% dragonborns, and 18% other races. It has the largest concentration of tieflings and dragonborn on the continent.
+This scarce and snowy place is the most northern city on the continent. It guards the entrance to the mountains and the wilderness in the north. Everwinter is a mining town with nearly all of its economy being based on the exports of resources.  
+The mountains around Everwinter are the most ore rich ground that has been found in Iostria and it contains many rare elements including Dragonium the most sought after metal in Iostria. Other ores can be found in the mountains such as  Iron, copper, Gold, Nickel, Electrum, Silver. Even some gemstones have been found in the mountains.  
+Everwinter has around 12,000 inhabitants, 42% humans, 16% dwarves, 9% half-orcs, 8% thieflings, 5% gnomes, 2% dragonborns, and 18% other races. It has the largest concentration of tieflings and dragonborn on the continent.
 
 <a name="zoavoarren"/>
 
@@ -357,8 +354,7 @@ City of dragonborn, hidden from everything inside the mountains of the island of
 ## The traveler’s path
 [Back to cities](#cities)
 
-Is the main road connecting most of Iostria with itself. The name comes from the builders who are believed to have been ancient travelers exploring the continent.
-
+Is the main road connecting most of Iostria with itself. The name comes from the builders who are believed to have been ancient travelers exploring the continent.  
 Today the path is the busiest trading route in Iostria with many merchants traveling to and from all the major cities and towns. 
 
 <a name="phantasmal"/>
@@ -366,9 +362,9 @@ Today the path is the busiest trading route in Iostria with many merchants trave
 ## The phantasmal forest
 [Back to cities](#cities)
 
-Is the largest single forest in Iostria, located just north-east of Claton. It's the home to many small villages and even some towns lay hidden in the trees, most of them are “normal” settlements with travelers and merchants visiting the inns and trading with the locals. But some of the villages deep within the woods have no contact with the outside world. They live off the forest eating the many edible plants and the berries or by hunting some of the many animals in the forest.
+Is the largest single forest in Iostria, located just north-east of Claton. It's the home to many small villages and even some towns lay hidden in the trees, most of them are “normal” settlements with travelers and merchants visiting the inns and trading with the locals. But some of the villages deep within the woods have no contact with the outside world. They live off the forest eating the many edible plants and the berries or by hunting some of the many animals in the forest.  
 
- Many races hail from the phantasmal forest such as the Tabaxi, the Firbolgs, the wood elves, and the forest gnomes. Its total population is unknown but at least some thousands of creatures live there. 
+Many races hail from the phantasmal forest such as the Tabaxi, the Firbolgs, the wood elves, and the forest gnomes. Its total population is unknown but at least some thousands of creatures live there. 
 
 A large problem in recent years has been that groups of bandits that hide in the trees in  the forest ambush lone travelers and merchants that walk on the Traveler’s path.
 (possible future campaign?)
