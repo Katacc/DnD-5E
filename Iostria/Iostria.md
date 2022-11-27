@@ -197,26 +197,25 @@ Tribesman: https://www.dndbeyond.com/monsters/17122-yuan-ti-malison
 [Back to Top](#contents)
 
 
-[Airedale](#airedale) --
-[The King](#king)
-[Stratham](#stratham)
-[Barataria Bay](#barataria)
-[Claton](#claton)
-[Klarth](#klarth)
-[Everwinter](#everwinter)
-[Zoavoarren](#zoavoarren)
-[The traveler's path](#travelerspath)
-[The phantasmal forest](#phantasmal)
-[The simmering swamp](#swamp)
-[The lost desert](#desert)
-[The tribal valley](#tribalvalley)
-[The fishermans bay](#fishersbay)
+[Airedale](#airedale)  
+[The King](#king)  
+[Stratham](#stratham)  
+[Barataria Bay](#barataria)  
+[Claton](#claton)  
+[Klarth](#klarth)  
+[Everwinter](#everwinter)  
+[Zoavoarren](#zoavoarren)  
+[The traveler's path](#travelerspath)  
+[The phantasmal forest](#phantasmal)  
+[The simmering swamp](#swamp)  
+[The lost desert](#desert)  
+[The tribal valley](#tribalvalley)  
+[The fishermans bay](#fishersbay)  
 
 
 <a name="airedale"/>
-<details>
-	<summary>## Airedale</summary>
-		<p>Is the largest city in Iostria and is the capital of the Kingdom of Oceiros its population is roughly:  30 000, 70% human, around 10% dwarf, 5% elf, 5% halfling and 10% mixed of all the other races. 
+## Airedale
+Is the largest city in Iostria and is the capital of the Kingdom of Oceiros its population is roughly:  30 000, 70% human, around 10% dwarf, 5% elf, 5% halfling and 10% mixed of all the other races. 
 
 Airedale consist of five official districts:
 8The inner castle where the extremely wealthy and the important live with the King and the ones near him. The central garrison is also inside the inner castle
@@ -235,8 +234,7 @@ The city’s main entrances are either through the docks or the main gate. Both 
 
 Airedales economy is based mostly on its large dock district and the exports and imports to and from the other continents. There are also heavy taxes on all sorts of businesses within the city.
 
-Airedales and the whole kingdom's official religion is to the light pantheon of gods and mostly to Zodlios. Other religions aren’t banned in the kingdom but they are often frowned upon and vandalism of churches and other places of worship to the other gods is not uncommon, also there have been rumours that famous supporters of the dark pantheon have been disappearing without trace. Despite this many underground communities of worship to the other gods exist within Airedale and the whole kingdom.</p>
-</details>
+Airedales and the whole kingdom's official religion is to the light pantheon of gods and mostly to Zodlios. Other religions aren’t banned in the kingdom but they are often frowned upon and vandalism of churches and other places of worship to the other gods is not uncommon, also there have been rumours that famous supporters of the dark pantheon have been disappearing without trace. Despite this many underground communities of worship to the other gods exist within Airedale and the whole kingdom.
 
 
 <a name="king"/>
