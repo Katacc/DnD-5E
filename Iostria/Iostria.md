@@ -19,6 +19,72 @@
 
 [9. Custom classes](#custom-classes)
 
+- [Contents](#contents)
+- [1. The Gods](#1-the-gods)
+		- [Izotl, The god of gods,](#izotl-the-god-of-gods)
+	- [1.1 Children of the light](#11-children-of-the-light)
+		- [Zodlios The God of Justice](#zodlios-the-god-of-justice)
+		- [Hecataeus  The God of wisdom](#hecataeus--the-god-of-wisdom)
+		- [Dhemes The God of madness](#dhemes-the-god-of-madness)
+	- [1.2 Children of Nature](#12-children-of-nature)
+		- [Chisemis The God of the earth (rocks, ground etc)](#chisemis-the-god-of-the-earth-rocks-ground-etc)
+		- [Cephine The Goddess of the Wilderness (forests, swamps etc)](#cephine-the-goddess-of-the-wilderness-forests-swamps-etc)
+		- [Lognar The God of water and the seas](#lognar-the-god-of-water-and-the-seas)
+	- [1.3 Children of the dark](#13-children-of-the-dark)
+		- [Danir The God of Desire](#danir-the-god-of-desire)
+		- [Adrena The Goddess of Kindness](#adrena-the-goddess-of-kindness)
+		- [Medona The Goddess of Joy](#medona-the-goddess-of-joy)
+- [2. DEATH AND THE GREAT MIST](#2-death-and-the-great-mist)
+- [3. DEMIGODS](#3-demigods)
+	- [Edward 'The undead' Thorn](#edward-the-undead-thorn)
+	- [The Monstrosities](#the-monstrosities)
+	- [Yuan-ti](#yuan-ti)
+- [4. LARGE CITIES \& NOTABLE PLACES](#4-large-cities--notable-places)
+	- [Airedale](#airedale)
+	- [The King](#the-king)
+	- [Stratham](#stratham)
+	- [Claton](#claton)
+	- [Klarth](#klarth)
+	- [Mirfield](#mirfield)
+	- [Everwinter](#everwinter)
+	- [Zoavoarren](#zoavoarren)
+	- [The traveler’s path](#the-travelers-path)
+	- [The phantasmal forest](#the-phantasmal-forest)
+	- [The simmering swamp](#the-simmering-swamp)
+	- [The lost desert](#the-lost-desert)
+	- [The tribal valley](#the-tribal-valley)
+	- [The fishermans bay](#the-fishermans-bay)
+- [5. Races](#5-races)
+	- [Human](#human)
+	- [Hollow one](#hollow-one)
+	- [Ashen one](#ashen-one)
+		- [Traits](#traits)
+		- [Age](#age)
+		- [List of abilities available for Ashen ones depending on character class:](#list-of-abilities-available-for-ashen-ones-depending-on-character-class)
+	- [Tiefling of Iostria](#tiefling-of-iostria)
+	- [Dragonborn](#dragonborn)
+	- [Bugbear](#bugbear)
+	- [Dwarf](#dwarf)
+	- [Elf](#elf)
+	- [Firbolg](#firbolg)
+	- [Gnome](#gnome)
+	- [Goblin](#goblin)
+	- [Half-elf](#half-elf)
+	- [Half-orc](#half-orc)
+	- [Halfling](#halfling)
+	- [Kenku](#kenku)
+	- [Tabaxi](#tabaxi)
+	- [Tortle](#tortle)
+- [6. Monsters](#6-monsters)
+	- [Werewolf](#werewolf)
+	- [Wolf](#wolf)
+	- [Orc](#orc)
+- [7. Mechanics](#7-mechanics)
+	- [Body decaying](#body-decaying)
+	- [Drain](#drain)
+- [8. Magic Items](#8-magic-items)
+- [9. Custom Classes](#9-custom-classes)
+	- [Elemental Fighter (5e Class)](#elemental-fighter-5e-class)
 
 
 <a name="gods"/>
@@ -130,22 +196,6 @@ The “better” afterlife
 
 If a person has lived a life that the gods deem worthy, their soul will be called upon after its death to become one with their god's soul. a god's power and their character is defined by the souls they absorb. The more powerful the soul the more impact it has on the gods.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a name="demigods"/>
 
 # 3. DEMIGODS
@@ -177,7 +227,6 @@ Tribesman: https://www.dndbeyond.com/monsters/17122-yuan-ti-malison
 
 # 4. LARGE CITIES & NOTABLE PLACES
 [Back to Top](#contents)
-
 
 [Airedale](#airedale)  
 [The King](#king)  
@@ -330,8 +379,6 @@ The council rules from the top floor of the largest building in the center of Mi
 
  Around Mirfield there are many towns both up and down on the traveler's path.
 
-
-
 <a name="everwinter"/>
 
 ## Everwinter
@@ -446,15 +493,15 @@ An Ashen one is a soul freed from Death's realm that had no body to go to so it 
 
 ### Traits
 
-Black/purple like demonic appearance
-Horns
-skin emits ash
-Ages normally, but Ashen one can live up to 860 years old.
-1d4 + 1d20 makes the colour of Ashen one
-Black
-Black-Purple
-Purple
-Gray
+Black/purple like demonic appearance  
+Horns  
+skin emits ash  
+Ages normally, but Ashen one can live up to 860 years old.  
+1d4 + 1d20 makes the colour of Ashen one  
+Black  
+Black-Purple  
+Purple  
+Gray  
 d20 is added to let the player decide how much purple will be in black-purple Ashen one
 	If rolled natural 20 ⇒ Red Ashen one
 
