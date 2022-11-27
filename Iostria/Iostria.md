@@ -1,23 +1,23 @@
 <a name="contents"/>
 
 # Contents
-[1. The Gods](#gods)
+<!-- [1. The Gods](#gods) -->
 
-[2. Death and the great mist](#death)
+<!-- [2. Death and the great mist](#death) -->
 
-[3. Demigods](#demigods)
+<!-- [3. Demigods](#demigods) -->
 
-[4. large cities and notable places](#cities)
+<!-- [4. large cities and notable places](#cities) -->
 
-[5. Races](#races)
+<!-- [5. Races](#races) -->
 
-[6. Monsters](#monsters)
+<!-- [6. Monsters](#monsters) -->
 
-[7. Mechanics](#mechanics)
+<!-- [7. Mechanics](#mechanics) -->
 
-[8. Magic items](#magic-items)
+<!-- [8. Magic items](#magic-items) -->
 
-[9. Custom classes](#custom-classes)
+<!-- [9. Custom classes](#custom-classes) -->
 
 - [Contents](#contents)
 - [1. The Gods](#1-the-gods)
