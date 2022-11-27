@@ -1,5 +1,6 @@
 # Contents
 [1. The Gods](#gods)
+[7. Mechanics](#mechanics)
 
 <a name="gods"/>
 ## 1. The Gods
@@ -557,8 +558,8 @@ Orc
 
 
 
-
-* 7. Mechanics
+<a name="mechanics"/>
+# 7. Mechanics
 
 Body decaying
 Dead body will decay 1d12 (1d6 if the body is stored in cold) % (where the result of the dice is the %) each day. You can restore a body if it remains 10% intact. 
