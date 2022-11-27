@@ -1,16 +1,10 @@
 # Contents
 [1. The Gods](#gods)
-
 [2. Death and the great mist](#death)
-
 [3. Demigods](#demigods)
-
 [4. large cities and notable places](cities)
-
 [5. Races](#races)
-
 [6. Monsters](#monsters)
-
 [7. Mechanics](#mechanics)
 
 
