@@ -646,8 +646,8 @@ When afflicting drain damage, restore the amount of damage done to enemies, as H
 # 9. Custom Classes
 [Back to Top](#contents)
 
-## Elemental Fighter (5e Class)
-<details><summary>## Elemental Fighter (5e Class)</summary>
+### Elemental Fighter (5e Class)
+<details><summary>Toggle</summary>
 <p>
 Contents
 1	Elemental Fighter
