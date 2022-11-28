@@ -85,6 +85,14 @@
 - [8. Magic Items](#8-magic-items)
 - [9. Custom Classes](#9-custom-classes)
 	- [Elemental Fighter (5e Class)](#elemental-fighter-5e-class)
+		- [1 Elemental Fighter](#1-elemental-fighter)
+		- [1.1 Creating an Elemental Fighter](#11-creating-an-elemental-fighter)
+			- [Quick Build](#quick-build)
+		- [1.2 Class Features](#12-class-features)
+			- [Hit Points](#hit-points)
+			- [Proficiencies](#proficiencies)
+			- [Equipment](#equipment)
+			- [Elemental Affinity](#elemental-affinity)
 
 
 <a name="gods"/>
@@ -649,54 +657,34 @@ When afflicting drain damage, restore the amount of damage done to enemies, as H
 ## Elemental Fighter (5e Class)
 
 Contents  
-1	Elemental Fighter  
-1.1	Creating an Elemental Fighter  
-1.2	Class Features  
-1.2.1	Table: The Elemental Fighter  
-1.2.2	Primordial Circle  
-1.2.3	Enhance Energy  
-1.2.4	Harness Element  
-1.2.5	Ability Score Improvement  
-1.2.6	Extra Attack  
-1.2.7	Elemental Hurler  
-1.2.8	Primordial Shield  
-1.2.9	Outlandish Physiology  
-1.2.10	Elemental Strike  
-1.2.11	Planar Resistance  
-1.2.12	Piercing Energy  
-1.2.13	Elemental Mastery  
-1.2.14	Fire  
-1.2.15	Earth  
-1.2.16	Water  
-1.2.17	Air  
 
-Elemental Fighter
+### 1 Elemental Fighter
 Elemental fighters are warriors capable of channeling the power of the elemental planes to enhance their own martial abilities, engulfing weapons in primordial energy and unleashing them onto their opponents.
 
 The training of Elemental Fighters require an adept understanding of the elements and have a firm grasp on controlling them. Most users and their elements are linked, since each elemental discipline utilities the strengths of different parts of the body more than others and a different personality, leading some to be more tuned to certain elements than other.
 
-Creating an Elemental Fighter
+### 1.1 Creating an Elemental Fighter
 When creating your elemental fighter, ask yourself how did you developed your ability to control the elements. Have you been touched by an elemental plane and have the power of controlling it tied to your lineage, or is your ability the result of years of study and training to find the connection to the elemental planes?
 
-Quick Build
+#### Quick Build
 You can make an Elemental Fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons or on archery (or finesse weapons). Your next-highest score should be Constitution and Charisma, to enhance the power of some of your class features. Second, choose the Hermit background.
 
-Class Features
+### 1.2 Class Features
 As a Elemental Fighter you gain the following class features.
 
-Hit Points
+#### Hit Points
 Hit Dice: 1d8 per Elemental Fighter level
 Hit Points at 1st Level: 8 + Constitution modifier
 Hit Points at Higher Levels: 1d8 (or 5) + Constitution modifier per Elemental Fighter level after 1st
 
-Proficiencies
+#### Proficiencies
 Armor: Light armor, medium armor
 Weapons: All melee weapons
 Tools: None
 Saving Throws: Strength, Dexterity
 Skills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
 
-Equipment
+#### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 
 (a) Breastplate or (b) Studded leather
@@ -731,7 +719,7 @@ Starting at 1st level, you must choose the planar circle from were you draw your
 
 Your choice grants you features at 1st, 3rd, 6th, 10th, 14th and 18th levels.
 
-Elemental Affinity
+#### Elemental Affinity
 Each circle have a specific elemental affinity attached to it. These are the following:
 
 Fire: fire damage
