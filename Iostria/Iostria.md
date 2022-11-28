@@ -20,8 +20,7 @@
 <!-- [9. Custom classes](#custom-classes) -->
 
 - [Contents](#contents)
-- [1. The Gods](#1-the-gods)
-- [valtteri on homo asasdasd](#valtteri-on-homo-asasdasd)
+	- [1. The Gods](#1-the-gods)
 	- [1.1 Izotl The god of gods](#11-izotl-the-god-of-gods)
 	- [1.2 Children of the light](#12-children-of-the-light)
 		- [Zodlios The God of Justice](#zodlios-the-god-of-justice)
@@ -98,19 +97,8 @@
 
 <a name="gods"/>
 
-# 1. The Gods
+## 1. The Gods
 [Back to Top](#contents) 
-
-
-
-
-Eli # on otsikoita
-ja kun teet uuden otsikon
-
-# valtteri on homo asasdasd
-
-
-
 
 ## 1.1 Izotl The god of gods
 other names: The one above all, The creator  
