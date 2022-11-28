@@ -650,26 +650,47 @@ When afflicting drain damage, restore the amount of damage done to enemies, as H
 <details><summary>Toggle</summary>
 <p>
 Contents
+
 1	Elemental Fighter	
+
 1.1	Creating an Elemental Fighter	
+
 1.2	Class Features	
+
 1.2.1	Table: The Elemental Fighter	
+
 1.2.2	Primordial Circle	
+
 1.2.3	Enhance Energy	
+
 1.2.4	Harness Element	
+
 1.2.5	Ability Score Improvement	
+
 1.2.6	Extra Attack	
+
 1.2.7	Elemental Hurler	
+
 1.2.8	Primordial Shield	
+
 1.2.9	Outlandish Physiology	
+
 1.2.10	Elemental Strike	
+
 1.2.11	Planar Resistance	
+
 1.2.12	Piercing Energy	
+
 1.2.13	Elemental Mastery	
+
 1.2.14	Fire	
+
 1.2.15	Earth	
+
 1.2.16	Water	
+
 1.2.17	Air		
+
 
 Elemental Fighter  
 Elemental fighters are warriors capable of channeling the power of the elemental planes to enhance their own martial abilities, engulfing weapons in primordial energy and unleashing them onto their opponents.
