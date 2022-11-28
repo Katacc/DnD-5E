@@ -15,7 +15,7 @@
 
 <!-- [7. Mechanics](#mechanics) -->
 
-<!-- [8. Magic items](#magic-items) -->
+<!-- [8. Magic items](#magic-items) neekeri valtteri -->
 
 <!-- [9. Custom classes](#custom-classes) -->
 
