@@ -647,52 +647,30 @@ When afflicting drain damage, restore the amount of damage done to enemies, as H
 [Back to Top](#contents)
 
 ## Elemental Fighter (5e Class)
-<details><summary>Toggle</summary>
-<p>
+
 Contents
+1	Elemental Fighter
+1.1	Creating an Elemental Fighter
+1.2	Class Features
+1.2.1	Table: The Elemental Fighter
+1.2.2	Primordial Circle
+1.2.3	Enhance Energy
+1.2.4	Harness Element
+1.2.5	Ability Score Improvement
+1.2.6	Extra Attack
+1.2.7	Elemental Hurler
+1.2.8	Primordial Shield
+1.2.9	Outlandish Physiology
+1.2.10	Elemental Strike
+1.2.11	Planar Resistance
+1.2.12	Piercing Energy
+1.2.13	Elemental Mastery
+1.2.14	Fire
+1.2.15	Earth
+1.2.16	Water
+1.2.17	Air
 
-1	Elemental Fighter	
-
-1.1	Creating an Elemental Fighter	
-
-1.2	Class Features	
-
-1.2.1	Table: The Elemental Fighter	
-
-1.2.2	Primordial Circle	
-
-1.2.3	Enhance Energy	
-
-1.2.4	Harness Element	
-
-1.2.5	Ability Score Improvement	
-
-1.2.6	Extra Attack	
-
-1.2.7	Elemental Hurler	
-
-1.2.8	Primordial Shield	
-
-1.2.9	Outlandish Physiology	
-
-1.2.10	Elemental Strike	
-
-1.2.11	Planar Resistance	
-
-1.2.12	Piercing Energy	
-
-1.2.13	Elemental Mastery	
-
-1.2.14	Fire	
-
-1.2.15	Earth	
-
-1.2.16	Water	
-
-1.2.17	Air		
-
-
-Elemental Fighter  
+Elemental Fighter
 Elemental fighters are warriors capable of channeling the power of the elemental planes to enhance their own martial abilities, engulfing weapons in primordial energy and unleashing them onto their opponents.
 
 The training of Elemental Fighters require an adept understanding of the elements and have a firm grasp on controlling them. Most users and their elements are linked, since each elemental discipline utilities the strengths of different parts of the body more than others and a different personality, leading some to be more tuned to certain elements than other.
@@ -932,6 +910,3 @@ At 18th level, you can use a bonus action, Dash and Disengage action. When you d
 
 In addition, when you are under the effects of Harness Element, you can choose to be surrounded by violent winds, imposing disadvantage on any attacks made against you until the start of your next turn. You can use this ability a number of times equal to your Charisma modifier, regaining its uses with a short or long rest.
 
-
-</p>
-</details>
