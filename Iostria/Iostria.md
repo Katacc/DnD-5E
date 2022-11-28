@@ -84,7 +84,7 @@
 	- [Drain](#drain)
 - [8. Magic Items](#8-magic-items)
 - [9. Custom Classes](#9-custom-classes)
-		- [Elemental Fighter (5e Class)](#elemental-fighter-5e-class)
+	- [Elemental Fighter (5e Class)](#elemental-fighter-5e-class)
 
 
 <a name="gods"/>
@@ -646,7 +646,7 @@ When afflicting drain damage, restore the amount of damage done to enemies, as H
 # 9. Custom Classes
 [Back to Top](#contents)
 
-### Elemental Fighter (5e Class)
+## Elemental Fighter (5e Class)
 <details><summary>Toggle</summary>
 <p>
 Contents
