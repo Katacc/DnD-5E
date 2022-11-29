@@ -453,14 +453,14 @@ Humans are the most common race in Iostria being about (prosenttimäärä) of th
 
 
 ## Hollow one
-Dead characters may become Hollow ones by attracting Death’s attention and striking themselves a bargain to be freed. If they succeed in time, they might be able to return to their old body. If they take too long or their body is destroyed in the living realm they will return as an Ashen one.
+Dead characters may become Hollow ones by attracting Death’s attention and striking themselves a bargain to be freed. If they succeed in time, they might be able to return to their old body. If they take too long or their body is destroyed in the living realm they will return as an Ashen one.  
 Hollow ones have a shadowy demonic appearance.
 
 At the end of every month, Roll a d20. If you rolled under 14, add one “Dead” counter. 
 
-Shadowy, Mixture of your previous appearance and demonic appearance
-Doesn’t age
-Horns
+Shadowy, Mixture of your previous appearance and demonic appearance  
+Doesn’t age  
+Horns  
 
 _**Ageless.**_ You don’t age, and effects that would cause you to age don’t work on you.
 
@@ -511,8 +511,9 @@ _**Demonic Fury.**_ As a bonus action, you unleash the demonic properties within
 _**Tales of Ash.**_ You have seen what comes after death and you know the horror one is faced when they die. As a bonus action you whisper tales of the afterlife and the despair that it holds to a creature that can hear you and they have to make a wisdom save against your charisma, should they fail they will have disadvantage on their next roll of any kind. Tales of Ash uses one bardic inspiration slot.
 
 - Cleric
-If you are a cleric of Death.  
-If you are a cleric of the Gods. _**Infernal Conflict.**_ Passive ability. As a cleric you have devoted your life to the gods and you have felt their warm embrace, still as an Ashen one you have died and felt the cold hand of death. Because of this you can naturally sense other creature’s alignment.
+  - If you are a cleric of Death.  
+  - If you are a cleric of the Gods. _**Infernal Conflict.**_ Passive ability. As a cleric you have devoted your life to the gods and you have felt their warm embrace, still as an Ashen one you have died and felt the cold hand of death. Because of this you can naturally sense other creature’s alignment.
+
 
 - Druid
 _**From Ash You Were Born…**_ As an action you commune with nature and target a creature that is downed or has been dead for less than 10 minutes and turn their body into ash. Heal a party member for (x)d4+10, where x is your level. This ability can be used twice per long rest
