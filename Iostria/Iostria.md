@@ -511,8 +511,8 @@ _**Demonic Fury.**_ As a bonus action, you unleash the demonic properties within
 _**Tales of Ash.**_ You have seen what comes after death and you know the horror one is faced when they die. As a bonus action you whisper tales of the afterlife and the despair that it holds to a creature that can hear you and they have to make a wisdom save against your charisma, should they fail they will have disadvantage on their next roll of any kind. Tales of Ash uses one bardic inspiration slot.
 
 - Cleric
-  - If you are a cleric of Death.  
-  - If you are a cleric of the Gods. _**Infernal Conflict.**_ Passive ability. As a cleric you have devoted your life to the gods and you have felt their warm embrace, still as an Ashen one you have died and felt the cold hand of death. Because of this you can naturally sense other creature’s alignment.
+  - If you are a cleric of **Death**.  
+  - If you are a cleric of the **Gods**. _**Infernal Conflict.**_ Passive ability. As a cleric you have devoted your life to the gods and you have felt their warm embrace, still as an Ashen one you have died and felt the cold hand of death. Because of this you can naturally sense other creature’s alignment.
 
 
 - Druid
