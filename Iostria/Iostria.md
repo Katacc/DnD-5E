@@ -561,8 +561,6 @@ _**You are no match.**_ As a sorcerer you have gained unfathomable strength. You
 
 - Warlock
 
-- Neekeri
-
 - Wizard
 As an action, Unleash a red stream of light that seems like blood. Drain (lvl) x 1d6 hp from target enemy. Any overhealing, you can distribute to one (1) nearby target within 15ft.
 
