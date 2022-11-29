@@ -1,23 +1,6 @@
 <a name="contents"/>
 
 # Contents
-<!-- [1. The Gods](#gods) -->
-
-<!-- [2. Death and the great mist](#death) -->
-
-<!-- [3. Demigods](#demigods) -->
-
-<!-- [4. large cities and notable places](#cities) -->
-
-<!-- [5. Races](#races) e-->
-
-<!-- [6. Monsters](#monsters) -->
-
-<!-- [7. Mechanics](#mechanics) -->
-
-<!-- [8. Magic items](#magic-items) neekeri valtteri -->
-
-<!-- [9. Custom classes](#custom-classes) -->
 
 - [Contents](#contents)
 	- [1. The Gods](#1-the-gods)
