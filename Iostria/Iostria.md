@@ -38,7 +38,7 @@
 - [3. DEMIGODS](#3-demigods)
 	- [Edward 'The undead' Thorn](#edward-the-undead-thorn)
 	- [The Monstrosities](#the-monstrosities)
-	- [Yuan-ti](#yuan-ti)
+		- [Yuan-ti](#yuan-ti)
 - [4. LARGE CITIES \& NOTABLE PLACES](#4-large-cities--notable-places)
 	- [Airedale](#airedale)
 	- [The King](#the-king)
@@ -221,7 +221,7 @@ The monstrosities created by Dhemes are beings of great strength and size, they 
 It is not known exactly how many of these creatures still exist in Iostria, but every now and then there are stories told in inns across the continent about great beasts wandering the wilderness wreaking havoc on unsuspecting settlements.
 Some consider these monstrosities "demigods” because of their raw strength they are worshipped by some orc tribes and barbarians. Killing one of these monstrosities is nearly impossible and is considered a test to becoming a true legend in Iostria.
 
-## Yuan-ti
+### Yuan-ti
 Yuan-ti is a gigantic serpent that's said to live somewhere deep within the phantasmal forest.  It used to wander around devouring entire villages until it took residence in a cave that has now became its lair, some tribes within the phantasmal forest started worshipping the serpent as a god of primal nature unknowing of its true origins.
 
 These tribes bring sacrifices to the serpent's lair to keep his hunger in check, so that it doesn’t start rampaging once more. These tribes have been worshipping the serpent for many millenium and they have been affected by its powers. Modern tribesmen have been physically deformed by Yuan-ti’s power. They are  somewhere in between human and serpent, they have also lost most of their humanity, mostly acting on their animalistic instincts. They still live in tribes where most of them hunt food and bring it to Yuan-ti’s lair.
