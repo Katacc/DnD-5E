@@ -95,8 +95,6 @@
 			- [Elemental Affinity](#elemental-affinity)
 
 
-<a name="gods"/>
-
 ## 1. The Gods
 [Back to Top](#contents) 
 
@@ -168,8 +166,6 @@ Worshipped by most bards, drunks and other performers
 Holy symbol is a bottle pouring wine into a chalice
 
 
-<a name="death"/>
-
 
 # 2. DEATH AND THE GREAT MIST	
 [Back to Top](#contents)
@@ -203,7 +199,7 @@ The “better” afterlife
 
 If a person has lived a life that the gods deem worthy, their soul will be called upon after its death to become one with their god's soul. a god's power and their character is defined by the souls they absorb. The more powerful the soul the more impact it has on the gods.
 
-<a name="demigods"/>
+
 
 # 3. DEMIGODS
 [Back to Top](#contents)
@@ -230,8 +226,6 @@ These tribes bring sacrifices to the serpent's lair to keep his hunger in check,
 Tribesman: https://www.dndbeyond.com/monsters/17122-yuan-ti-malison
 
 
-<a name="cities"/>
-
 # 4. LARGE CITIES & NOTABLE PLACES
 [Back to Top](#contents)
 
@@ -250,8 +244,6 @@ Tribesman: https://www.dndbeyond.com/monsters/17122-yuan-ti-malison
 [The tribal valley](#tribalvalley)  
 [The fishermans bay](#fishersbay)  
 
-
-<a name="airedale"/>
 
 ## Airedale
 [Back to cities](#cities)
@@ -278,8 +270,6 @@ Airedales economy is based mostly on its large dock district and the exports and
 Airedales and the whole kingdom's official religion is to the light pantheon of gods and mostly to Zodlios. Other religions aren’t banned in the kingdom but they are often frowned upon and vandalism of churches and other places of worship to the other gods is not uncommon, also there have been rumours that famous supporters of the dark pantheon have been disappearing without trace. Despite this many underground communities of worship to the other gods exist within Airedale and the whole kingdom.
 
 
-<a name="king"/>
-
 ## The King
 [Back to cities](#cities)
 
@@ -292,7 +282,6 @@ Currently King Oceiros has ruled the kingdom for around a year with his mother S
 
 After Prince Artorias and the men few loyal to him were exiled they have set up a camp near Mirfield and are gathering loyal soldiers to try and overthrow his half-brother. And reclaim his seat as the rightful ruler of the Kingdom. Currently Artorias’s camp is around 500 warriors strong. 
 
-<a name="stratham"/>
 
 ## Stratham
 [Back to cities](#cities)
@@ -334,8 +323,6 @@ There is no official town guard or police force, since it’s more of a place of
 
  Most of Barataria Bay’s economy is based on piracy and the trade of stolen goods but also the exports of strong liquor made by breweries located in the Barataria Bay area, which are famous across Iostria. Although exports of hard liquor to the Kingdom can be a bit tricky because the Kingdom has banned all trade with the pirate towns. Some merchants get around this by setting up shop in Mirfield or other towns outside the Kingdom and acting as a third party to get the liquors into the cities and towns of the Kingdom.
 
-<a name="claton"/>
-
 ## Claton
 [Back to cities](#cities)
 
@@ -354,8 +341,6 @@ Claton’s economy is based mostly on the sales of crops from the farms and the 
 Everything basic and less basic can be bought from the numerous shops and stalls around the market square. 
 
 
-<a name="klarth"/>
-
 ## Klarth
 [Back to cities](#cities)
 
@@ -369,7 +354,6 @@ Nearly all of Klarth’s economy is based on the export of weapons, armor and ot
 
 Getting into Klarth itself is another problem if you even manage to get there. The city is walled off and the entrances are guarded by the royal dwarf army. To get into the city you must have a good reason or a merchants pass. All  illegal contraband is seized at the city’s gate, and you are also searched when leaving the city. Once you are inside the city walls Klarth is mostly an accepting place for travellers and merchants. There are even many inns and taverns built for human sized creatures. Getting into the inner city located in the mountainside is nearly impossible if you don’t live there or have an invitation from someone that does. Security at the inner gates is even tighter and civilians aren’t allowed to bring weapons inside the inner city.
 
-<a name="mirfield"/>
 
 ## Mirfield
 [Back to cities](#cities)
@@ -386,7 +370,6 @@ The council rules from the top floor of the largest building in the center of Mi
 
  Around Mirfield there are many towns both up and down on the traveler's path.
 
-<a name="everwinter"/>
 
 ## Everwinter
 [Back to cities](#cities)
@@ -404,7 +387,6 @@ Everwinter has around 12,000 inhabitants, 42% humans, 16% dwarves, 9% half-orcs,
 
 City of dragonborn, hidden from everything inside the mountains of the island of the dragons. The mountains hide around 1,300 dragonborn and their ancient civilization runs on the very foundation of our world, magma. The Mountains hide a lot of Dragonium, the rarest metal in the continent.
 
-<a name="travelerspath"/>
 
 ## The traveler’s path
 [Back to cities](#cities)
@@ -413,7 +395,6 @@ Is the main road connecting most of Iostria with itself. The name comes from the
 
 Today the path is the busiest trading route in Iostria with many merchants traveling to and from all the major cities and towns. 
 
-<a name="phantasmal"/>
 
 ## The phantasmal forest
 [Back to cities](#cities)
@@ -429,7 +410,6 @@ The phantasmal forest is said to be a magical place with many forest druids prac
 
 Legend says, that there lies hidden portal to another plane of existence, somewhere deep within Phantasmal Forest
 
-<a name="swamp"/>
 
 ## The simmering swamp
 [Back to cities](#cities)
@@ -438,14 +418,12 @@ Located in a volcanically active part of  Iostria the simmering swamp lies in be
 
  Because of its location the waters of the simmering swamp are heated through geothermal geysers. The unfortunate side-effect is that the whole swamp, besides smelling like a swamp, also reeks of sulfur and volcanic fumes. One can get used to the smell as proved by the inhabitants of the simmering swamp. There are many small floating villages that are built on rafts, and they can float around the swamp area if need be. Most of the creatures living in the swamp are tortles but there are also many other races that live among them.
 
-<a name="desert"/>
 
 ## The lost desert 
 [Back to cities](#cities)
 
 Is known for its many magical treasures found in the many ruins and ancient tombs scattered around the desert. It’s considered the most magically sensitive place in Iostria and so the mage capital of Stratham was built there. 
 
-<a name=" tribalvalley"/>
 
 ## The tribal valley
 [Back to cities](#cities)
@@ -454,7 +432,6 @@ Is a giant valley in central Iostria that stands before the entrance to Klarth. 
 
 Many armies have tried to conquer the tribal valley, all of them have failed. Many travellers every year go missing there never to be seen again, most of them searching for the same thing, a safe trade route to Klarth. Every merchant in the continent wants to get their hands on an easier trading route to Klarth, so they could sell the equipment forged by the dwarven master smiths. The only known trade route to Klarth today is by sea and even then you have to risk sailing through pirate waters.
 
-<a name="fishermans"/>
 
 ## The fishermans bay
 [Back to cities](#cities)
@@ -465,7 +442,6 @@ Most of the fishermen in these towns travel to Claton to sell their catch. These
 
 It is legend that the reason for the abnormally large amount of fish in these waters is that the remains of one of the sea monstrosities slain by Edward 'The undead' Thorn are located somewhere in the depths of the bay, and all of the sea life thrives either by eating the remains itself, or by hunting the smaller fish that do. This story is unconfirmed however and so it is unknown if it is the actual reason for the rich sea life in the area.
 
-<a name="races"/>
 
 # 5. Races
 [Back to Top](#contents)
@@ -619,7 +595,6 @@ Big, standing, Dragon-like creatures, Born from original dragons, Resides on an 
 
 
 
-<a name="monsters"/>
 
 # 6. Monsters
 [Back to Top](#contents)
@@ -631,8 +606,6 @@ Big, standing, Dragon-like creatures, Born from original dragons, Resides on an 
 ## Orc
 
 
-<a name="mechanics"/>
-
 # 7. Mechanics
 [Back to Top](#contents)
 
@@ -643,12 +616,9 @@ Dead body will decay 1d12 (1d6 if the body is stored in cold) % (where the resul
 When afflicting drain damage, restore the amount of damage done to enemies, as HP for yourself.
 
 
-<a name="magic-items"/>
 
 # 8. Magic Items
 [Back to Top](#contents)
-
-<a name="custom-classes"/>
 
 # 9. Custom Classes
 [Back to Top](#contents)
