@@ -500,7 +500,7 @@ _**Cling to Life.**_ When you make a death saving throw and roll 16 or higher, y
 
 _**Wish to Death.**_ When becoming Ashen One, Death grants you one (1) special ability depending on your class and slightly upgrades your Unsettling Presence. 
 
-_**_Unsettling Presence.**_ As an action, you can unsettle a creature you can see within 15 feet of you. The target rolls Wisdom saving throw, If they fail, you have advantage on all the rolls against the Unsettled creature for one round. Constructs, undead, and creatures that can’t be frightened are immune to this feature. Once you use this feature, you can’t use it again until you finish a long rest.
+_**Unsettling Presence.**_ As an action, you can unsettle a creature you can see within 15 feet of you. The target rolls Wisdom saving throw, If they fail, you have advantage on all the rolls against the Unsettled creature for one round. Constructs, undead, and creatures that can’t be frightened are immune to this feature. Once you use this feature, you can’t use it again until you finish a long rest.
 
 ### List of abilities available for Ashen ones depending on character class:
 
