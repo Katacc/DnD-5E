@@ -1,1 +1,1 @@
-DND 5E campaings, worlds and characters
+DND 5E campaings, worlds and characters.
